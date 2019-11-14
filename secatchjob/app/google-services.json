@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595379352059",
+    "firebase_url": "https://se-catch-job.firebaseio.com",
+    "project_id": "se-catch-job",
+    "storage_bucket": "se-catch-job.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595379352059:android:f610cb9683fc20dcd09b5e",
+        "android_client_info": {
+          "package_name": "com.example.secatchjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595379352059-1au2rpuc42dcqq7fo991ne3el0b7gcjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVzZNtwawB8S79KDmrCM66clobj8tB3sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595379352059-1au2rpuc42dcqq7fo991ne3el0b7gcjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
